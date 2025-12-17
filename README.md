@@ -112,3 +112,4 @@ You also need to add an environment secret variable `SERVER_ENV_PROD` which shou
 Finally, enable write permission for the `GITHUB_TOKEN` to enable pushing images to your package registry: Go to `Settings` > `Actions` > `General` and check `Read and write permissions` under `Workflow permissions`.
 # trigger 
 Trigger pipeline run 
+trigger 
